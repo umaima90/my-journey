@@ -1,4 +1,4 @@
 #umaima
-Hello, This is my first tory.
+Hello, I'm ready to start my journey as a python developer.
 <br>
 author: umaima qadir
